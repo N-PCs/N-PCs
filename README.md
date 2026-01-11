@@ -66,8 +66,12 @@
   </div>
 </div>
 
+<p align="center">
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark">
+  
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 <img align="center" alt="Coding" width="800" src="https://github.com/N-PCs/Source/blob/main/%E1%B4%8D%E1%B4%80%C9%B4%E1%B4%85%CA%8F%20%CA%99%E1%B4%9C%C9%B4%C9%B4%CA%8F.gif">
 
