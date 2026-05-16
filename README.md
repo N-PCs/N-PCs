@@ -14,7 +14,7 @@
 </p>
 
 ## 🛠️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,matlab,vscode,pycharm,clion,anaconda,atom,github,git,windows,figma,notion,postman,premiere,ps,php,flask,vite,typescript,react)
+![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,matlab,vscode,pycharm,clion,anaconda,atom,github,git,windows,figma,notion,postman,premiere,ps,php,flask,vite,typescript,react,next,express)
 
 ## 📊 GitHub Stats
 <div style="position: relative; width: 100%;">
