@@ -1,37 +1,123 @@
-<img align="right" alt="Coding" width="3000px" height="5px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Neel%20Pandey&fontSize=72&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=✦%20Developer%20from%20Goa,%20India%20✦%20Building%20things%20that%20matter&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hi%2C%20I%27m%20Neel%20Pandey%20👋&fontSize=50&animation=scaleIn&fontAlignY=35&desc=A%20passionate%20developer%20from%20Goa,%20India&descSize=20&descAlignY=55&descAlign=50)
+<div align="center">
 
-## 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=N-PCs&theme=tokyonight)
+```
+╔═══════════════════════════════════════════════════════════════╗
+║  "Code is poetry written for machines, read by humans."       ║
+╚═══════════════════════════════════════════════════════════════╝
+```
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
 
-## 🌐 Connect with Me
-<p align="left">
-<a href="https://twitter.com/n_p_cs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="n_p_cs" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/neel-pandey-4b7469324" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neel-pandey" height="30" width="40" /></a>
-<a href="https://instagram.com/neel_pandey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__np__376" height="30" width="40" /></a>
-</p>
+</div>
 
-## 🛠️ Languages and Tools
-![My Skills](https://skillicons.dev/icons?i=cpp,py,html,css,js,mysql,matlab,vscode,pycharm,clion,anaconda,atom,github,git,windows,figma,notion,postman,premiere,ps,php,flask,vite,typescript,react,next,express)
+---
+
+## ⚡ About Me
+
+<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif"/>
+
+```yaml
+name: Neel Pandey
+location: Goa, India 🌴
+role: Passionate Developer
+focus: Building meaningful digital experiences
+
+currently:
+  - 🔭 Working on exciting full-stack projects
+  - 🌱 Deepening expertise in React & Next.js
+  - 🎯 Exploring TypeScript best practices
+  - 💡 Turning ideas into reality, one commit at a time
+
+fun_facts:
+  - 🌊 Beach sunsets fuel my best debugging sessions
+  - ☕ Coffee → Code → Repeat
+  - 🎵 Coding with lo-fi in the background
+```
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+
+### 💻 Languages
+![My Skills](https://skillicons.dev/icons?i=cpp,py,js,typescript,php,matlab&theme=dark)
+
+### 🎨 Frontend
+![My Skills](https://skillicons.dev/icons?i=html,css,react,next,vite,figma&theme=dark)
+
+### ⚙️ Backend & DB
+![My Skills](https://skillicons.dev/icons?i=flask,express,mysql,postman,php&theme=dark)
+
+### 🧰 Tools & Environment
+![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion,anaconda,atom,notion,windows,premiere,ps&theme=dark)
+
+</div>
+
+---
 
 ## 📊 GitHub Stats
-<div style="position: relative; width: 100%;">
-  <p align="center">
-    <img src="https://yourinsights.vercel.app/api/insight?username=N-PCs&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
-  </p>
-</div>
-<br>
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+<div align="center">
+
+<img src="https://yourinsights.vercel.app/api/insight?username=N-PCs&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" width="100%"/>
+
+</div>
+
+
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![](https://github-trophies.vercel.app/?username=N-PCs&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/N-PCs/N-PCs/output/github-snake.svg" width="100%"/>
 </picture>
 
+</div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=100&section=footer)
+---
 
+## 🌐 Let's Connect
+
+<div align="center">
+
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/n_p_cs)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-pandey-4b7469324)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/neel_pandey_)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-PCs)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=N-PCs&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS)
+
+<br/>
+
+*"The best error message is the one that never shows up."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
