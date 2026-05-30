@@ -1,66 +1,53 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Neel%20Pandey&fontSize=72&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=✦%20Developer%20from%20Goa,%20India%20✦%20Building%20things%20that%20matter&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
 <div align="center">
-
-```
-╔═══════════════════════════════════════════════════════════════╗
-║  "Code is poetry written for machines, read by humans."       ║
-╚═══════════════════════════════════════════════════════════════╝
-```
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;Open+Source+Enthusiast+%F0%9F%8C%9F;Always+Learning%2C+Always+Building+%E2%9C%A8)](https://git.io/typing-svg)
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+,Always+Building)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-## ⚡ About Me
-
-<img align="right" alt="Coding" width="380" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExam9mYTl0eWJncWs4Nmszb3BwMjQ5bXJxZnYwNGxhY3RybHdtemZrYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3otO6NFBIAFg2vPZuM/giphy.gif"/>
+## About Me
 
 ```yaml
 name: Neel Pandey
-location: Goa, India 🌴
-role: Passionate Developer
+location: Goa, India 
+role: Full Stack Developer
 focus: Building meaningful digital experiences
 
 currently:
-  - 🔭 Working on exciting full-stack projects
-  - 🌱 Deepening expertise in React & Next.js
-  - 🎯 Exploring TypeScript best practices
-  - 💡 Turning ideas into reality, one commit at a time
-
-fun_facts:
-  - 🌊 Beach sunsets fuel my best debugging sessions
-  - ☕ Coffee → Code → Repeat
-  - 🎵 Coding with lo-fi in the background
+  -    Working on exciting full-stack and open source projects
+  -    Deepening expertise in React & Next.js
+  -    Exploring AI/ML 
+  -    Turning ideas into reality, one commit at a time
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech Arsenal
 
 <div align="center">
 
-### 💻 Languages
+### Languages
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,typescript,php,matlab&theme=dark)
 
-### 🎨 Frontend
+### Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,next,vite,figma&theme=dark)
 
-### ⚙️ Backend & DB
+### Backend & DB
 ![My Skills](https://skillicons.dev/icons?i=flask,express,mysql,postman,php&theme=dark)
 
-### 🧰 Tools & Environment
+### Tools & Environment
 ![My Skills](https://skillicons.dev/icons?i=git,github,vscode,pycharm,clion,anaconda,atom,notion,windows,premiere,ps&theme=dark)
 
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -72,7 +59,7 @@ fun_facts:
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -82,7 +69,7 @@ fun_facts:
 
 ---
 
-## 🐍 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -96,7 +83,7 @@ fun_facts:
 
 ---
 
-## 🌐 Let's Connect
+## Let's Connect
 
 <div align="center">
 
