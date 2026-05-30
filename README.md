@@ -7,7 +7,11 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/n_p_cs)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-pandey-4b7469324)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/neel_pandey_)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/N-PCs)
+[![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/N-PCs)
+[![Codeforces](https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Neel_P)
+[![Portfolio](https://img.shields.io/badge/Portofolio-%23FFD700.svg?style=for-the-badge&logo=Portfolio)](https://neelpandey-portfolio.vercel.app/)
+[![Blog](https://img.shields.io/badge/Blog-%233B9C90.svg?style=for-the-badge&logo=Blog)](https://neel-pandey-coding-blog.vercel.app/)
+
 
 </div>
 
