@@ -4,8 +4,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Problem+Solver;Open+Source+Contributor;Always+Learning+,Always+Building)](https://git.io/typing-svg)
 
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/n_p_cs)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-pandey-4b7469324)
+[![Twitter](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/n_p_cs)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neel-pandey-4b7469324)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/neel_pandey_)
 [![Leetcode](https://img.shields.io/badge/Leetcode-%23333333.svg?style=for-the-badge&logo=Leetcode&logoColor=orange)](https://leetcode.com/N-PCs)
 [![Codeforces](https://img.shields.io/badge/Codeforces-%23FFFFFF.svg?style=for-the-badge&logo=Codeforces)](https://codeforces.com/profile/Neel_P)
@@ -55,9 +55,9 @@ currently:
 ### Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,next,sass,tailwind,bootstrap,&theme=dark)
 ### Backend & DB
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,mysql,mongodb,&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,postgresql,sqlite,mysql,mongodb,&theme=dark)
 ### Tools & Environment 
-![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,premiere,ps&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=linux,git,vscode,premiere,figma,ps&theme=dark)
 
 </div>
 
