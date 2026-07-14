@@ -19,6 +19,10 @@
 
 ## About Me
 
+<table align="center" border="0" width="100%">
+ <tr>
+    <td width="70%" valign="left">
+
 ```yaml
 name: Neel Pandey
 location: Goa, India 
@@ -26,11 +30,19 @@ role: Full Stack Developer
 focus: Building meaningful digital experiences
 
 currently:
-  -    Working on exciting full-stack and open source projects
-  -    Deepening expertise in React & Next.js
-  -    Exploring AI/ML 
-  -    Turning ideas into reality, one commit at a time
+  - Working on exciting full-stack and open source projects
+  - Deepening expertise in React & Next.js
+  - Exploring AI/ML 
+  - Turning ideas into reality, one commit at a time
 ```
+</td>
+   
+  <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/N-PCs/N-PCs/main/pixel_avatar.png" height="205" alt="Avatar"/>
+    </td>
+
+</tr>
+</table>
 
 <br clear="right"/>
 
