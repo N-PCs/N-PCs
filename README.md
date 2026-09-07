@@ -67,7 +67,7 @@ currently:
 ### Frontend
 ![My Skills](https://skillicons.dev/icons?i=html,css,react,next,sass,tailwind,bootstrap,&theme=dark)
 ### Backend & DB
-![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,postgresql,sqlite,mysql,mongodb,firebase,supabase&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=nodejs,express,flask,postgresql,sqlite,mysql,mongodb,firebase,supabase,appwrite&theme=dark)
 ## Production 
 ![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp,redis,cloudflare,docker,)
 ### Tools & Environment 
